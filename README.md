@@ -4,7 +4,7 @@ An annotation processor which implements "Builder Pattern" for your java classes
 ---
 
 ### Example:
-we annotated our class with `@Builder` and initialize the constructor with all the fields.
+we annotated our class with `@Builder` and initialize a constructor with all the fields.
 
 ```java
 @Builder
